@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/148088810/277110372-2bf6dd84-803c-466d-b074-941e2fdb86b1.gif" alt="J4o" width="1000" height= "200" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Radwan Ramadan</h1>
 <h3 align="center">I'm a student from lebanon</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=radwan48&label=Profile%20views&color=000000&style=flat" alt="radwan48" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
